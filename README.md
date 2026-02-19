@@ -7,7 +7,7 @@ mkdir -p ~/.config/
 cd .config
 ```
 ```
-git clone https://github.com/ALESYA-beta/nvim.git ~/.config
+git clone https://github.com/ALESYA-beta/nvim.git
 ```
 ```
 apt install nodejs
