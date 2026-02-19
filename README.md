@@ -1,7 +1,7 @@
 ## NVIM
 
 ```
-mkdir -p ~/.config/nvim
+mkdir -p ~/.config/
 ```
 ```
 git clone https://github.com/ALESYA-beta/nvim.git ~/.config
