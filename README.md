@@ -22,8 +22,9 @@ npm install -g typescript typescript-language-server
 apt install clang make
 ```
 
-rekomendasi 
+suport bahasa progam
 
 * pyhon
 * javascript
+* go
 
